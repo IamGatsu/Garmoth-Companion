@@ -13,6 +13,7 @@ Install Instructions:
 2. Open Companion.exe (make a Shortcut on your Desktop)
 First start is gonna take longer to create all the Files in the Cache,
 you gonna find all saved user Data under appdata/local/GarmothCompanion
+3. Application can be shown and hidded with Hotkey (F11)
 
 
 Legal Notes:
