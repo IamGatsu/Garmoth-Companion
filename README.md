@@ -8,6 +8,12 @@ https://www.virustotal.com/gui/file/b9bc86f12e2a85b1cf247d5d2fb43afd17698a36995b
 
 Full Source Code will be public later on after test Phase done.
 
+Install Instructions:
+1. Unpack zip anywhere on your Computer
+2. Open Companion.exe (make a Shortcut on your Desktop)
+First start is gonna take longer to create all the Files in the Cache,
+you gonna find all saved user Data under appdata/local/GarmothCompanion
+
 
 Legal Notes:
 My Program is not related in any way, shape or form to Garmoth.com Website,
